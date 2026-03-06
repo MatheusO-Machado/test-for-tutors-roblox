@@ -33,7 +33,7 @@ Demonstrar domínio de construção de mapa, organização de cena e implementa�
 
 ## 🎥 Vídeo de demonstração
 
-[Assistir vídeo no Google Drive](https://drive.google.com/file/d/1HYT3MyGMUxC8hSK7A3p2bEHVLho2UV2m/view?usp=sharing)
+[Assistir vídeo no Google Drive](https://drive.google.com/file/d/1Tz-dEsOGRPIf5t7I2LgbpdYaLceXsUyw/view?usp=sharing)
 
 ## 📄 Documento da atividade
 
